@@ -1,0 +1,3 @@
+[submodule "printer_data/config"]
+	path = printer_data/config
+	url = https://github.com/DonaldLSayers/Voron-V2.3744
